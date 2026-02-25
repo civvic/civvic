@@ -10,5 +10,6 @@
   "__init__": "183b1ff66bc9e3b95aad4fd55cd976df",
   "flakes": "26926d7421bb29921f0a34bda26050aa",
   "gitutil": "67c2023a4868942d33e02babe8b75f19",
-  "htmx_bridge": "e4e46a6131b8d2c461f84deeb0c254a1"
+  "htmx_bridge": "e4e46a6131b8d2c461f84deeb0c254a1",
+  "isolated": "ecd57f1e8e5552061b9e6139eab6285f"
 }
