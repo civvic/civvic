@@ -7,5 +7,6 @@
   "gists": "13d83d3ea2eddd8a37eb3dc48c64df6f",
   "core": "751d4085a113e8842a09b36872c18854",
   "logger": "1081b9c2df60ccae960d37106ea20d35",
-  "__init__": "06d3336900f8c6b3e9301450d026af4f"
+  "__init__": "06d3336900f8c6b3e9301450d026af4f",
+  "flakes": "b8bd7b47973eb60f953b08fdb9d5eef0"
 }
