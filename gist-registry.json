@@ -9,5 +9,6 @@
   "logger": "1081b9c2df60ccae960d37106ea20d35",
   "__init__": "06d3336900f8c6b3e9301450d026af4f",
   "flakes": "b8bd7b47973eb60f953b08fdb9d5eef0",
-  "gitutil": "39bd7fcd4822dad551cbf47f76da28dc"
+  "gitutil": "39bd7fcd4822dad551cbf47f76da28dc",
+  "htmx_bridge": "6d5cfcba6d27f7391b48b20cfcb42e74"
 }
