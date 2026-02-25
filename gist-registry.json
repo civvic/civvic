@@ -5,5 +5,6 @@
     "dutil.flakes": "a0e12f4d6a979f79dab42053e60938ed"
   },
   "gists": "13d83d3ea2eddd8a37eb3dc48c64df6f",
-  "core": "751d4085a113e8842a09b36872c18854"
+  "core": "751d4085a113e8842a09b36872c18854",
+  "logger": "1081b9c2df60ccae960d37106ea20d35"
 }
