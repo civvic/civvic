@@ -4,13 +4,5 @@
     "dutil.core": "f3b39bd93d94dd8dc7ee3f2ca7588a00",
     "dutil.flakes": "a0e12f4d6a979f79dab42053e60938ed"
   },
-  "gist": "13d83d3ea2eddd8a37eb3dc48c64df6f",
-  "core": "85627e656dd6d5bc2b50fac7082e0760",
-  "logger": "f8a9aac7978618bb3980caca48a074e0",
-  "__init__": "183b1ff66bc9e3b95aad4fd55cd976df",
-  "flakes": "26926d7421bb29921f0a34bda26050aa",
-  "gitutil": "67c2023a4868942d33e02babe8b75f19",
-  "htmx_bridge": "e4e46a6131b8d2c461f84deeb0c254a1",
-  "isolated": "ecd57f1e8e5552061b9e6139eab6285f",
-  "all": "d9190b51273d53f0f6673401e17a8d3d"
+  "gist": "13d83d3ea2eddd8a37eb3dc48c64df6f"
 }
